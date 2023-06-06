@@ -1,8 +1,3 @@
-On branch master
-Your branch is up to date with 'origin/master'.
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	./
-
-nothing added to commit but untracked files present (use "git add" to track)
+[master d17bdca] My second readme
+ 1 file changed, 8 insertions(+)
+ create mode 100644 0x03-git/README.md
